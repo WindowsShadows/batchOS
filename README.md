@@ -1,2 +1,3 @@
 # batchOS
-An OS made in batch
+batchOS v0.1.0 coming soon!
+pkgman: https://github.com/WindowsShadows/pkgman
