@@ -1,0 +1,6 @@
+exit quits batchOS.
+pkgman is the batchOS Package Manager.
+calc is a simple Batch calculator.
+logoff logs the user account off.
+3dtest is a 3d test powered by the Batch Shade Engine.
+help is the batchOS Help Documentation.
